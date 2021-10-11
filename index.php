@@ -75,8 +75,6 @@ $("#emailForm").submit(function(event){
         );
     });
 
-
-
 });
 </script>
 
