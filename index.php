@@ -19,7 +19,7 @@ session_destroy();
     </div>
     <form id="emailForm">
       <div class="padding-field form-group">
-        <input type="email" id="email" class="form-control fadeIn second" name="email" placeholder="login">
+        <input type="email" id="email" class="form-control fadeIn second" name="email" placeholder="Email">
       </div>
       <input type="submit" class="fadeIn fourth" value="Sign in /  Sign up">
     </form>
