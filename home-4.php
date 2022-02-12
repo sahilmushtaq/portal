@@ -13,7 +13,7 @@ session_start();
 
 <?php 
 	$id = "";
-	$token = "";
+	$token = "ss";
 	if($_POST){
 		$id = $_POST['id'];
 		$token = $_POST['token'];
